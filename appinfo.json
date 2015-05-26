@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lesser.evil@gmail.com",
+    "longName": "VibrateClock",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "VibrateClock",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "4a7ecf63-7ae4-4cf7-a586-92e81978f8ce",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
